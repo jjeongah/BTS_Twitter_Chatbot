@@ -128,13 +128,14 @@ Let's fangirl(덕질) together! **ArmyBot** is a chatbot service that allows you
 - Generation model
     - paust/pko-t5-base 기반 pretrainig + finetuning
         - [nlpotato/pko-t5-base_ver1.1](https://huggingface.co/nlpotato/pko-t5-base_ver1.1)
-    - BTS 관련 토큰 추가
-        - Vocab size : 50383
-        - "BTS", "bts", "RM", "rm", "진", "김석진", "석진", "김남준", "남준", "슈가", "민윤기", "윤기", "제이홉", "정호석", "지민", "박지민", "뷔", "김태형", "태형", "V", "정국", "전정국", "아미", "빅히트", "하이브", "아미", "보라해"
-    - Finetuning
-        1. 일상 대화 및 위로 문답 챗봇 데이터
-        2. BTS 관련 네이버 지식인 데이터
-        3. 더쿠 BTS 카테고리 글/댓글 + 트위터 BTS 팬 트윗/답글 데이터
+    - Add BTS-related tokens
+        - Vocab size: 50,383
+        - "BTS", "bts", "RM", "rm", "Jin", "Kim Seokjin", "Seokjin", "Kim Namjoon", "Namjoon", "Suga", "Min Yoongi", "Yoongi", "J-Hope", "Jung Hoseok", "Jimin", "Park Jimin", "V", "Kim Taehyung", "Taehyung", "V", "Jungkook", "Jeon Jungkook", "ARMY", "Big Hit", "HYBE", "ARMY", "I purple you"
+
+- Finetuning
+    1. chitchat conversation and comforting chatbot data
+    2. BTS-related Naver Knowledge-in data
+    3. Theqoo BTS category posts/comments + Twitter BTS fan tweets/replies data
     - Model size : 1.1GB
     - Number of trainable parameters : 275,617,536
 - Retreiver model
