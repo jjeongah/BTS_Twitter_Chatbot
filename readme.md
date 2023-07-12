@@ -119,9 +119,9 @@ Let's fangirl(덕질) together! **ArmyBot** is a chatbot service that allows you
 - Naver Knowledgein BTS category: 7,785 questions and answers, 8.70MB
 - TheQoo BTS category posts/comments: 13,709 posts, 3.53MB
 - Twitter BTS fan tweets/replies: 8,106 tweets and replies, 1.45MB
-- [Korean-hate-speech](https://github.com/kocohub/korean-hate-speech): 7,896 sentences
+- [Korean-hate-speech](https://github.com/kocohub/korean-hate-speech): 7,896 sentences 
 - [KOLD](https://github.com/boychaboy/KOLD): 40,429 sentences
-- [Korean_unsmile_data](https://github.com/smilegate-ai/korean_unsmile_dataset): 7,896 sentences
+- [Korean_unsmile_data](https://github.com/smilegate-ai/korean_unsmile_dataset): 7,896 sentences 
 - [Curse-detection-data](https://github.com/2runo/Curse-detection-data): 6,154 sentences
 
 ## 6️⃣ Modeling
